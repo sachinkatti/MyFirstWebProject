@@ -2,7 +2,6 @@
   "name": "myfirstwebproject",
   "version": "1.0.0",
   "description": "This is a small starter project. Add project description, setup, and usage here.",
-  "main": "index.html",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html",
