@@ -1,1 +1,9 @@
+node_modules/
+.parcel-cache/
+dist/
+npm-debug.log
+.env
+.DS_Store
+/*.log
+/.vscode/
 "# MyFirstWebProject"  @"# common ignoresnode_modules/venv/*.log__pycache__/.DS_Store "@ 
